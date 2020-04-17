@@ -6,12 +6,12 @@ This is a develpment script used to automate repetitive task when developing in 
 In order to run script add create.sh to your project directory not nested inside of any internal
 directories. Behavior is as followed: </br>
 
-./create [-h] [name] (creates hook name in components folder) </br>
-./create [-c] [name] (creates class name in components folder) </br>
-./create [-s] [name] (creates class name in screens folder) </br>
-./create [-sd] [name] (creates class  name in screens folder, adds it to Drawer Navigator) </br> 
-[-config] (change defualt settings) </br> 
-[-help] </br> 
+./create -h [name] (creates hook name in components folder) </br>
+./create -c [name] (creates class name in components folder) </br>
+./create -s [name] (creates class name in screens folder) </br>
+./create -sd [name] (creates class  name in screens folder, adds it to Drawer Navigator) </br> 
+./create -config (change defualt settings) </br> 
+./create -help </br> 
 
 If file doesnt run you need to create executable by running 
 ```
