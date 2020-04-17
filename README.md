@@ -28,10 +28,10 @@ Required Directories: </br>
 Required Screens: </br>
 - DrawerNavigator.js </br>
 - BottomTabNavigator.js </br>
+
 Delimeters: </br>
 - Drawer: Expects drawer navigator delimeter to be </Drawer.Navigator> 
 </br>
-
 - BottomTabNavigator: Expects BottomTabNavigator delimeter to be </BottomTab.Navigator> 
 </br>
 
