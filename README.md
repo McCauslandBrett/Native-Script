@@ -30,10 +30,8 @@ Required Screens: </br>
 - BottomTabNavigator.js </br>
 
 Delimeters: </br>
-- Drawer: Expects drawer navigator delimeter to be </Drawer.Navigator> 
-</br>
-- BottomTabNavigator: Expects BottomTabNavigator delimeter to be </BottomTab.Navigator> 
-</br>
+- Drawer: Expects drawer navigator delimeter to be </Drawer.Navigator> </br>
+- BottomTabNavigator: Expects BottomTabNavigator delimeter to be </BottomTab.Navigator> </br>
 
 ## Video Documentation
 - Coming Soon
