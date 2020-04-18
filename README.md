@@ -10,6 +10,7 @@ directories. Behavior is as followed: </br>
 ./create -c [name] (creates class name in components folder) </br>
 ./create -s [name] (creates class name in screens folder) </br>
 ./create -sd [name] (creates class  name in screens folder, adds it to Drawer Navigator) </br> 
+./create -sb [name] (creates class  name in screens folder, adds it to BottomTabNavigator) </br> 
 ./create -config (change defualt settings) </br> 
 ./create -help </br> 
 
