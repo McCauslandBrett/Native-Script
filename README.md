@@ -35,7 +35,7 @@ Delimeters: </br>
 - BottomTabNavigator: Expects BottomTabNavigator delimeter to be </BottomTab.Navigator> </br>
 
 ## Video Documentation
-- Coming Soon
+- https://youtu.be/SnSoo0Fxe_E
 
 ## Author
 
