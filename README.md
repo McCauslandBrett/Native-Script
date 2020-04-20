@@ -18,7 +18,7 @@ If file doesnt run you need to create executable by running
 ```
   chmod +x create.sh
 ```
-(You only need to do this once). </br> </br>
+(You only need to do this once). The script will not overwrite existing files so commands must be run for non-existing components. The script containes the boiler plate code that will be used, if you want to change the boiler plate code this is the one area of the script that does require manual changing. When making such changes follow the formating already provided. The naming method for screens that are placed into navigation is as followed: If the name is longer than 6 characters it will shorten the name by six characters using the front of the string. This is based on best programming practices for react native to tack on the word Screen to components that are used as screens, this means the script under these best practices will result in removing the word screen from the navigation name. </br> </br>. </br> </br>
 
 ## Defualt Structure Dependencies
 Required Directories: </br>
