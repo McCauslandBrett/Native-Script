@@ -1,6 +1,6 @@
 # React Native Development Script
 
-This is a develpment script used to automate repetitive task when developing in react native. Provides for fast screen, class component, and hook component creation. 
+This is a development script used to automate repetitive task when developing in react native. Provides for fast screen, class component, and hook component creation. 
 
 ## Usage
 In order to run script add create.sh to your project directory not nested inside of any internal
